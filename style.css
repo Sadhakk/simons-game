@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    text-align: center;
+}
+.boxe1,.boxe2{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 0.1rem;
+}
+
+#box1{
+
+    width: 8rem;
+    height: 10rem;
+    background-color: red;
+    border: 2px solid black;
+    margin: 0.4rem;
+}
+#box2{
+    width: 8rem;
+    height: 10rem;
+    background-color: red;
+    border: 2px solid black;
+
+}
+#box3{
+    width: 8rem;
+    height: 10rem;
+    background-color: red;
+    border: 2px solid black;
+
+}
+#box4{
+    width: 8rem;
+    height: 10rem;
+    background-color: red;
+    border: 2px solid black;
+
+}
